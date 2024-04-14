@@ -49,5 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat e [MoraisDev](https://github.com/MoraiisDev) <br>
-[Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat e [MoraiisDev](https://github.com/MoraiisDev) <br>
